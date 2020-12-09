@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Solution>
+    <Stream WCD="240.0" id="Stream0">
+        <Route>
+            <Link dest="SW1_1" src="ES1"/>
+            <Link dest="SW1_2" src="SW1_1"/>
+            <Link dest="ES2" src="SW1_2"/>
+        </Route>
+        <Route>
+            <Link dest="SW1_1" src="ES1"/>
+            <Link dest="SW1_2" src="SW1_1"/>
+            <Link dest="ES2" src="SW1_2"/>
+        </Route>
+        <Route>
+            <Link dest="SW0" src="ES1"/>
+            <Link dest="ES2" src="SW0"/>
+        </Route>
+        <Route>
+            <Link dest="SW0" src="ES1"/>
+            <Link dest="ES2" src="SW0"/>
+        </Route>
+    </Stream>
+</Solution>

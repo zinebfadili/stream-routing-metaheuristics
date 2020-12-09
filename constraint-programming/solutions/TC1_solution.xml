@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<solution tc_name="TC1">
+	<stream id="Stream0">
+		<route>
+			<link src="ES1" dest="SW1_1"/>
+			<link src="SW1_1" dest="SW1_2"/>
+			<link src="SW1_2" dest="ES2"/>
+		</route>
+		<route>
+			<link src="ES1" dest="SW1_1"/>
+			<link src="SW1_1" dest="SW1_2"/>
+			<link src="SW1_2" dest="ES2"/>
+		</route>
+		<route>
+			<link src="ES1" dest="SW1_1"/>
+			<link src="SW1_1" dest="SW1_2"/>
+			<link src="SW1_2" dest="ES2"/>
+		</route>
+		<route>
+			<link src="ES1" dest="SW1_1"/>
+			<link src="SW1_1" dest="SW1_2"/>
+			<link src="SW1_2" dest="ES2"/>
+		</route>
+	</stream>
+</solution>
