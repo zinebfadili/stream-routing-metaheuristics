@@ -1,4 +1,4 @@
-02229 - Systems Optimization Project
+# 02229 - Systems Optimization Project
 
 François Goudineau (s201589)
 Zineb Fadili (s201501)
